@@ -1,3 +1,3 @@
 # Zach Thomas
 
-[Work Experience] (/workExperience/workExperience.md)
+[Work Experience] (infozach/workExperience/workExperience.md)
