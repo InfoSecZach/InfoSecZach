@@ -2,4 +2,4 @@
 
 [Work Experience](workExperience/workExperience.md)
 
-[Technical Skills
+[Technical Skills](technicalSkills/technicalSkills.md)
