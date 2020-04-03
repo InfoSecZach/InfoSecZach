@@ -1,3 +1,3 @@
 # Zach Thomas
 
-[Work Experience] (infozach.github.io/workExperience/workExperience.md)
+[Work Experience] (/workExperience/workExperience.md)
