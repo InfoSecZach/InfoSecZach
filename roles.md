@@ -18,4 +18,4 @@
 ***
 
 ## Ask me about my experience as a middle childhood math, science, and technology educator in the years of 2014 - 2017
-> ### August 2014 - August 2017
+>> ### August 2014 - August 2017
