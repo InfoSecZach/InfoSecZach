@@ -1,7 +1,7 @@
 # Zach Thomas
 
-[Work Experience](workExperience/workExperience.md)
+[Work Experience](workExperience.md)
 
-[Technical Skills](technicalSkills/technicalSkills.md)
+[Technical Skills](technicalSkills.md)
 
 [Education](education.md)
