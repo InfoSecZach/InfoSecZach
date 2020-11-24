@@ -1,13 +1,7 @@
 # Certifications
-## Achieved
-### CompTIA
-- Security+
-- CySA+
 
-## Roadmap
-### CompTIA
-- Pentest+
-### EC-Council
-- Certified Ethical Hacker | 2022
-### (ISC)<sup>2</sup>
-- CISSP | 2023
+## Current
+**CompTIA Security+**
+- May 2018 - May 2021
+## Planned
+**CompTIA CySA+**
