@@ -26,9 +26,13 @@
 	- Legal issues; jailbreaking process; logical & physical acquisition; data recovery & analysis
 	- System feasibility; requirements analysis; database utilization; UML; project control
 - **Business Data Communication & Networks**
+	-
 - **Information Structures with Java**
+	-
 - **Quantitative Methods for Information Systems**
+	-
 - **IT Strategy and Management**
+	-
 
 
 ## Masters of Education: Middle Childhood Education, Math & Science

@@ -2,6 +2,13 @@
 
 ***
 
+## VFC, TEKsystems
+> ## Identity and Access Management Analyst
+> ### October 2020 - Present
+> TBA
+
+***
+
 ## The Wendy’s Company, Dublin, Ohio
 > ## Identity and Access Management Engineer
 > ### August 2018 - March 2020
@@ -17,5 +24,23 @@
 
 ***
 
-## Ask me about my experience as a middle childhood math, science, and technology educator in the years of 2014 - 2017
->> ### August 2014 - August 2017
+## Denver Public Schools, Denver, Colorado
+> ## SmartLab Administrator
+> ### August 2015 - June 2017
+> TBA
+
+> ***
+
+> ## Programming for iOS with Swift
+> ### August 2015 - June 2017
+> TBA
+
+> ***
+
+> ## Site Technology Representative
+> ### August 2015 - June 2016
+> TBA
+
+***
+
+## Feel free to ask me about my experience as a middle childhood math educator in the years of 2014 - 2017
