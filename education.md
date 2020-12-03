@@ -48,6 +48,9 @@
 - Udemy
 
 # Books
+#### Have Read
+#### Reading Now(ish)
+#### To Read
 
 # Podcasts
 (In no particular order)
