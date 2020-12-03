@@ -42,9 +42,26 @@
 
 
 # Online Development
+- Treehouse
+- Pluralsight
+- LinkedIn Learning
+- Udemy
 
 # Books
 
 # Podcasts
+(In no particular order)
+
+- [Defense in Depth](https://podcasts.apple.com/us/podcast/defense-in-depth/id1450197741)
+- [Hacking Humans](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810)
+- [SANS Internet Stormcenter Daily Stormcast](https://podcasts.apple.com/us/podcast/sans-internet-stormcenter-daily-network-cyber-security/id304863991)
+- [Black Hills Information Security](https://podcasts.apple.com/us/podcast/black-hills-information-security/id1410835265)
+- [Random But Memorable](https://podcasts.apple.com/us/podcast/random-but-memorable/id1435486599)
+- [Troy Hunt’s Weekly Update Podcast](https://podcasts.apple.com/us/podcast/troy-hunts-weekly-update-podcast/id1176454699)
+- [Darknet Diaries](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
+- [Command Line Heroes](https://podcasts.apple.com/us/podcast/command-line-heroes/id1319947289)
+- [Malicious Life](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787)
+- [Automators](https://podcasts.apple.com/us/podcast/automators/id1406364168)
+- [The Social-Engineer Podcast](https://podcasts.apple.com/us/podcast/the-social-engineer-podcast/id334648685)
 
 # Currently Exploring
