@@ -1,7 +1,7 @@
 # Certifications
 
 ## Current
-**CompTIA Security+**
-**CompTIA CySA+**
+- CompTIA Security+
+- CompTIA CySA+
 ## Planned
-**CISSP**
+- CISSP
