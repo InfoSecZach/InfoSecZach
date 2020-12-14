@@ -49,8 +49,24 @@
 
 # Books
 #### Have Read
+- Countdown to Zero Day: Stuxnet and the Launch of the World’s First Digital Weapon; Kim Zetter
+- Social Engineering: The Art of Human Hacking; Christopher Hadnagy
+- Information Security Policies and Procedures: A Practitioner’s Reference; Thomas R. Peltier 
+- Learning Android Forensics; Rohit Tamma, Donnie Tindall 
+- Practical Mobile Forensics; Heather Mahalik, Rohit Tamma, Satish Bommisetty
+- Learning iOS Forensics; Mattia Epifani, Pasquale Stirparo
+- Engineering Information Security; Stuart Jacobs
+- Security Program and Policies: Principles and Practices; Sari Stern Greene
+- Database Systems: Design, Implementation, and Management; Carlos Coronel, Steven Morris
+- Learn Windows PowerShell in a Month of Lunches; Don Jones, Jeffery D. Hicks
+- Never Split the Difference: Negotiating as if Your Life Depended on it; Chris Voss, Tahl Raz
 #### Reading Now(ish)
+- Secrets & Lies: Digital Security in a Networked World, Bruce Schneier
+- Hacking: The Art of Exploitation, Jon Erickson
+- Learn PowerShell Scripting in a Month of Lunches, Don Jones, Jeffery Hicks
 #### To Read
+- Red Team: How to Succeed by Thinking Like the Enemy; Micah Zenko 
+- TBA
 
 # Podcasts
 (In no particular order)
