@@ -5,3 +5,5 @@
 - CompTIA CySA+
 ## Planned
 - CISSP
+## Exploring
+- Certified Kubernetes Administrator
