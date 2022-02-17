@@ -59,11 +59,11 @@
 - Security Program and Policies: Principles and Practices; Sari Stern Greene
 - Database Systems: Design, Implementation, and Management; Carlos Coronel, Steven Morris
 - Learn Windows PowerShell in a Month of Lunches; Don Jones, Jeffery D. Hicks
+- Learn PowerShell Scripting in a Month of Lunches, Don Jones, Jeffery Hicks
 - Never Split the Difference: Negotiating as if Your Life Depended on it; Chris Voss, Tahl Raz
 #### Reading Now(ish)
 - Secrets & Lies: Digital Security in a Networked World, Bruce Schneier
 - Hacking: The Art of Exploitation, Jon Erickson
-- Learn PowerShell Scripting in a Month of Lunches, Don Jones, Jeffery Hicks
 #### To Read
 - Red Team: How to Succeed by Thinking Like the Enemy; Micah Zenko 
 - TBA
