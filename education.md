@@ -61,6 +61,7 @@
 - Learn Windows PowerShell in a Month of Lunches; Don Jones, Jeffery D. Hicks
 - Learn PowerShell Scripting in a Month of Lunches, Don Jones, Jeffery Hicks
 - Never Split the Difference: Negotiating as if Your Life Depended on it; Chris Voss, Tahl Raz
+- Hacking The Hacker; Roger A. Grimes ([Resources](hackingTheHacker.md))
 #### Reading Now(ish)
 - Secrets & Lies: Digital Security in a Networked World, Bruce Schneier
 - Hacking: The Art of Exploitation, Jon Erickson
