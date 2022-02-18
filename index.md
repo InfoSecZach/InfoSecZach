@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Zach Thomas
 
 [Work Experience](workExperience.md)
@@ -8,4 +7,3 @@
 [Education](education.md)
 =======
 # testing
->>>>>>> main
