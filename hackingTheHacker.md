@@ -1,8 +1,11 @@
 # Hacking The Hacker
+
+## Bruce Schneier
 - Bruce Schneier’s blog: <https://www.schneier.com/>
 - Bruce Schneier’s Crypto-Gram newsletter: <https://www.schneier.com/crypto-gram/>
 - Bruce Schneier’s books: <https://www.amazon.com/Bruce-Schneier/e/B000AP7EVS/>
 
+## Kevin Mitnick
 - Kevin Mitnick’s web site: <https://mitnicksecurity.com/>
 - Ghost in the Wires: <https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729/>
 - The Art of Invisibility: <https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504/>
@@ -11,13 +14,19 @@
 - KnowBe4’s Kevin Mitnick Security Awareness Training: <https://www.knowbe4.com/products/kevin-mitnick-security-awareness-training/>
 - Kevin Mitnick’s Slashdot Q&A: <https://news.slashdot.org/story/11/09/12/1234252/Kevin-Mitnick-Answers>
 
+## Michael Howard
 - Michael Howard’s books: <https: //www.amazon.com/Michael-Howard/e/B001H6GDPW/ref=dp_byline_cont_book_1>
 - Michael Howard’s blogs: <https://blogs.msdn. microsoft.com/michael_howard/>
 - Michael Howard on Twitter: <https://twitter.com/michael_howard>
 
+## Susan Bradley
 - Susan Bradley’s Microsoft MVP blog: <http://blogs.msmvps.com/bradley/>
 - Susan Bradley at Windows Secrets: <http://windowssecrets.com/author/susan-bradley/>
 
+## Mark Rossinivich
+Coming soon
+
+## Martin Hellman
 - A New Map for Relationships: Creating True Love at Home and Peace on the Planet: <https://www.amazon.com/New-Map-Relationships-Creating-Planet/dp/0997492309/>
 - Martin Hellman’s Stanford bio: <http://www-ee.stanford.edu/~hellman/>
 - Martin Hellman’s work on cryptography: <http://www-ee.stanford.edu/~hellman/crypto.html>
