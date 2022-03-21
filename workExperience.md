@@ -4,7 +4,7 @@
 
 ## VFC, TEKsystems
 > ### Identity and Access Management Analyst
-> #### October 2020 - Present
+> #### October 2020 - December 2021
 > TBA
 
 ***

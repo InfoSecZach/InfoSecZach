@@ -6,4 +6,3 @@
 
 [Education](education.md)
 =======
-# testing
