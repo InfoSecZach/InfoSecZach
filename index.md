@@ -5,4 +5,3 @@
 [Technical Skills](technicalSkills.md)
 
 [Education](education.md)
-=======

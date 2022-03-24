@@ -2,6 +2,13 @@
 
 ***
 
+## CoverMyMeds
+> ### Cyber Security Analyst
+> #### December 2021 - Present
+> TBA
+
+***
+
 ## VFC, TEKsystems
 > ### Identity and Access Management Analyst
 > #### October 2020 - December 2021

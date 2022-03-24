@@ -31,8 +31,10 @@ Coming soon
 - Martin Hellman’s Stanford bio: <http://www-ee.stanford.edu/~hellman/>
 - Martin Hellman’s work on cryptography: <http://www-ee.stanford.edu/~hellman/crypto.html>
 
+## Michael Dubinsky
 - Michael Dubinsky on Twitter: <https://twitter.com/michaeldubinsky>
 
+## William Cheswick
 - William Cheswick’s web site: <http://www.cheswick.com/ches/index.html>
 - Firewalls and Internet Security: Repelling the Wily Hacker (co-authored with Steven Bellovin): <https://www.amazon.com/Firewalls-Internet-Security-Repelling-Hacker/dp/020163466X>
 - “An Evening with Berferd in which a Cracker Is Lured, Endured, and Studied” whitepaper: <http://www.cheswick.com/ches/papers/berferd.pdf>
