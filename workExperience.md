@@ -12,7 +12,7 @@
 ## VFC, TEKsystems
 > ### Identity and Access Management Analyst
 > #### October 2020 - December 2021
-> TBA
+> Administration of privileged access management solution, BeyondInsight, including onboarding of assets and users, creation and management of access policies, and API automation scripting with PowerShell.
 
 ***
 
