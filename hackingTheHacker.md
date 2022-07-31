@@ -39,11 +39,13 @@ Coming soon
 - Firewalls and Internet Security: Repelling the Wily Hacker (co-authored with Steven Bellovin): <https://www.amazon.com/Firewalls-Internet-Security-Repelling-Hacker/dp/020163466X>
 - “An Evening with Berferd in which a Cracker Is Lured, Endured, and Studied” whitepaper: <http://www.cheswick.com/ches/papers/berferd.pdf>
 
-- Dr. Cormac Herley’s web site: <http: //cormac.herley.org/>
+## Dr. Cormac Herley
+- Dr. Cormac Herley’s web site: <http://cormac.herley.org/>
 - Dr. Cormac Herley on Twitter: <https://twitter.com/cormacherley>
 - Dr. Cormac Herley’s Microsoft profile: <https://www.microsoft.com/en-us/research/people/cormac/>
 - Dr. Cormac Herley’s Google Scholar citations: <https:// scholar.google.com/citations?user=1FwhEVYAAAAJ&h1=en&oi-ao>
 
+## Aaron Higbee
 - Aaron Higbee on Twitter: <https://twitter.com/higbee>
 - Aaron Higbee LinkedIn profile: <https://www.linkedin.com/in/aaron-higbee-6098781>
 - Aaron Higbee’s PhishMe blog: <https://phishme.com/author/aaronh/>
@@ -104,4 +106,4 @@ Coming soon
 - Window Snyder on Twitter: <https://twitter.com/window>
 
 - Fahmida Y. Rashid’s LinkedIn profile: <https://www.linkedin.com/in/fyrashid>
-- Fahmida Y. Rashid’s Info World articles: <http://www.infoworld.com/author/Fahmida-Y.-Rashid/>
+- Fahmida Y. Rashid’s Info World articles: <http://www.infoworld.com/author/Fahmida-Y.-Rashid/> 
